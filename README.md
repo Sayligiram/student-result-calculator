@@ -1,4 +1,4 @@
-# student-result-calculator
+# student-grade-calculator
 A simple Python project to calculate 
 #total marks
 #percentage
