@@ -7,13 +7,12 @@ A simple Python project to calculate
 #grade
 
 
-#How to Run
-Run the python file and Enter the student's marks.
+## Technologies Used
+- Python
 
-
-
-
-
-#Author 
-Sayli
-B.Tech Civil Engineering Student .
+## Features
+- Takes student's name
+- Takes marks of three subjects
+- Calculates total marks
+- Calculates percentage
+- Assigns a grade
